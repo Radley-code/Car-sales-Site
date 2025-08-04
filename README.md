@@ -30,7 +30,7 @@ This project is built using:
 - **HTML**
 - **CSS**
 - **JavaScript**
-- (Add any other technologies or frameworks you used, if applicable.)
+
 
 ## Installation
 
@@ -83,7 +83,7 @@ Contributions are welcome! If you'd like to contribute:
 
 ## License
 
-This project does not currently have a license. Feel free to add one as needed.
+This project is [MIT](LICENSE.md) licensed.
 
 ## Contact
 
