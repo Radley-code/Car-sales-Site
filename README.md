@@ -1,4 +1,4 @@
-Here is a proposed README for your repository:
+
 
 ---
 
@@ -92,5 +92,3 @@ For any inquiries or feedback, feel free to reach out:
 - **GitHub**: [Radley-code](https://github.com/Radley-code)
 
 ---
-
-Let me know if you'd like to refine or add more details to this README!
