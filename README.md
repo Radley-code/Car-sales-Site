@@ -89,6 +89,6 @@ This project is [MIT](LICENSE.md) licensed.
 
 For any inquiries or feedback, feel free to reach out:
 
-- **GitHub**: [Radley-code](https://github.com/Radley-code)
+- **Email**: [mail](mailto:radleyacha00@icloud.com)
 
 ---
