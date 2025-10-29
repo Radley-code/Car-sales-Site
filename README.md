@@ -54,8 +54,6 @@ To get a local version of the website running:
 
 - Open the website in your browser to explore the car listings.
 - Navigate through the site to view the details of each car.
-- (Add more instructions if needed.)
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute:
